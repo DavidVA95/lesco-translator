@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LescoTranslator</string>
+    <string name="hint">Graba un audio o escribe lo que quieres traducir.</string>
+    <string name="logo">Logo</string>
+    <string name="order">Dí algo</string>
+    <string name="next">Siguiente</string>
+    <string name="pause">Pausa</string>
+    <string name="previous">Anterior</string>
+    <string name="microphone">Micrófono</string>
+    <string name="notification">Lo sentimos pero tu dispositivo no puede procesar información
+        obtenida a través del micrófono.</string>
+    <string name="title_activity_translator">Traducir</string>
+    <string name="translate">Traducir</string>
+    <string name="customize">Personalizar</string>
+    <string name="title">Título</string>
+    <string name="add_word">Escribe la palabra que quieres agregar:</string>
+    <string name="connection_error_message">Lo sentimos, pero no se ha podido conectar con el
+        servidor.</string>
+    <string name="unexpected_error_message">Lo sentimos, pero ha sucedido un error inesperado.</string>
+    <string name="please_wait_message">Por favor espere</string>
+    <string name="open_image">Abrir imagen</string>
+    <string name="photo">Foto</string>
+</resources>

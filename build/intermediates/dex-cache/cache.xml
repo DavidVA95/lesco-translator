@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_b28bbf5cffc1955277dfbfb4fb683e721d95f3e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1e1312314f349f3fd0dd2c5a36aed26b481808eb">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d438f192f3f93619696d45ee851a282903acd218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_1a3720662c80b64799238a91e495d033704a8a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="04c74f2d2281aae89df813b8ddd33d74eb75ff1d">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6a5ea1b1d50d50ab8ed92ff1baa4e67bb228ce0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_6fae7dce4c0c97904b94179ff702b74a62f9cc80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_50e373dc0e09fc65dea8e6043b856a64819ee118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.1.0\4459414c171c7b60cdc2f089ffa72d19d773835e\realm-annotations-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-1.1.0_19f478492a5df631a862e8b213253c26d04ff880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_95c3f89fc73fec44a79f370006be4eda660bb18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_b555fe95dc236e94200407a04eab851cc90cd606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\io.realm\realm-android-library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-1.1.0_2e6e2b7c566a5bd773c3307a27f02ebb652ecb97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_55747385fb9fff98c0f8c5d886fc1f2c8a82288b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_0bb7905208afd227f6b5c9ea986ce3836b96848f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_30d9cf6d66025dbf86b5d54522d45cff38ab7668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_13d25dcd35cfff0247f0fb5517fc72e0b68f95de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_df0950cfc8429dae89b46a3e3de8c379d0c872ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_16900bceaa06ed8f9b4c313fb4954daefe396fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_c02760de409092c22a7513ae553f85f3c92232c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\AlexisCR\Desktop\LescoTranslator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_e9a1464ce298ff455728a46fc7450b374588d238\classes.dex" />
+    </item>
+
+</items>
